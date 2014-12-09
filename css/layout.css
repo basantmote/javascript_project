@@ -1,0 +1,43 @@
+/* CSS Document */
+.clearr {
+	clear:both;
+}
+.main-wrap {
+	background-color:#666;
+	padding:10px;
+}
+.wrapper {
+	width:1000px;
+	background:#FFF;
+	margin:0 auto;
+	border-radius:10px;
+	padding:10px;
+}
+.wrapperLeft {
+	width:300px;
+	background:#FFF;
+	float:left;
+	height:500px;
+}
+.wrapperRight {
+	width:690px;
+	background:#FFF;
+	float:right;
+}
+.buttonDesign {
+	padding:10px;
+	border-radius:10px;
+	background:#CCC;
+	cursor:pointer;
+}
+.wrapperDiv {
+	padding:10px;
+	margin:10px;
+	background:#CCC;
+	border:1px #333 solid;
+}
+.txtField {
+	margin-top:5px;
+	display:block;
+	height:25px;
+}
