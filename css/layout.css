@@ -10,7 +10,7 @@
 	width:1000px;
 	background:#FFF;
 	margin:0 auto;
-	border-radius:10px;
+	border-radius:5px;
 	padding:10px;
 }
 .wrapperLeft {
@@ -20,15 +20,33 @@
 	height:500px;
 }
 .wrapperRight {
-	width:690px;
+	width:700px;
 	background:#FFF;
 	float:right;
+}
+
+.tabb{
+	
+	cursor:pointer;
+	padding: 5px 20px;
+	margin-left:10px;
+	float:left;
+	border-radius:10px 10px 0px 0px;
+	background-color:#CCC;	
+}
+
+.try{
+	clear:both;
+	padding: 5px 20px;
+	background-color:#CCC;
 }
 .buttonDesign {
 	padding:10px;
 	border-radius:10px;
 	background:#CCC;
 	cursor:pointer;
+	margin:10px 10px 0px 0px;
+	width:125px;
 }
 .wrapperDiv {
 	padding:10px;
@@ -41,3 +59,18 @@
 	display:block;
 	height:25px;
 }
+.paraField {
+	margin-top:5px;
+	display:block;
+	height:100px;
+}
+.radioInput{
+	margin-top:5px;
+	
+}
+.radioField{
+	margin-top:5px;
+	display:block;
+	height:25px;
+}
+
